@@ -4,8 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 
-username = os.getenv("LT_USERNAME")  # Replace the username
-access_key = os.getenv("LT_ACCESS_KEY")  # Replace the access key
+username = os.getenv("harshitc")  # Replace the username
+access_key = os.getenv("9hIkp65hknHROqlGZ35KZ8I2H4m1s6K9jW2Kz6KAkjgN3gX38R")  # Replace the access key
 
 
 # paste your capibility options below
